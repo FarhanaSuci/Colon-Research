@@ -1,9 +1,0 @@
-﻿ML Algorithm,Accuracy,Precision,Recall,F1-Score
-LR,96.91,97,97,97
-KNN,96.39,96,96,96
-RF,88.14,90,88,88
-Gardient Boosting,93.81,94,94,94
-AdaBoost,79.38,85,79,79
-Bagging,74.74,84,75,75
-Extra Trees,91.24,92,91,91
-CatBoost,95.88,96,96,96
