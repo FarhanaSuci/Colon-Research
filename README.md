@@ -1,1 +1,2 @@
-<img src="CRC_Method (3)" width="400">
+![CRC Method](CRC_Method%20(3).png)
+
